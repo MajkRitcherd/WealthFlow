@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WealthFlow.Domain/WealthFlow.Domain.csproj" />
+  <Project Path="WealthFlow.Domain.Tests/WealthFlow.Domain.Tests.csproj" />
+</Solution>
