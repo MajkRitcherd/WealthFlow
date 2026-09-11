@@ -6,7 +6,7 @@ namespace BrokerApiConsoleTest.Trading212
     /// Holds configuration to Trading 212 API, such as BaseUrl, ApiKey and ApiSecret.
     /// </summary>
     /// <param name="pathToJsonFile">Path to AppSettings.json file.</param>
-    public class ConfigurationT212(string pathToJsonFile)
+    public class Trading212Configuration(string pathToJsonFile)
     {
         private const string configurationKey = "Trading212";
 
